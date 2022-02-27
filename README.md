@@ -1,1 +1,6 @@
-# Portfolio
+This project was to produce an item-tracking list for a grocery store. In this project, I produced a list of all the purchased items in a day at the grocery store and the number of times the item was purchased. I also produced a number representing how many times each item was purchased during that day and then displayed a histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased.
+What I did particularly well was compiling the code and combining the C++ code with the Python code in order to make this project simpler.
+I could enhance my code by making the menu much more user friendly and changing things around to make the display better when the user is attempting to find out what item was purchased and how many times it was purchased that day. This would help the grocer be more organized. 
+The piece of code that I found the most difficult was calling to the Python code to get the menu to display. I overcame this by watching videos on youtube on how to correctly call to the python file and I made sure to also look at the SNHU videos that were provided to me as well which made this much easier.
+The skill from this project that will transfer to other course work is being able to combine different coding languages to make some projects easier.
+The way that I kept this project readable, maintainable, and adaptable was by keeping everything organized and made sure to use inline comments in order to find things much easier if they needed changing.
